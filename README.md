@@ -7,7 +7,7 @@
 - 😄 Pronouns: He/ Him
 - 💬 Ask me about anything related to Javascript/React.
 - ⚡ Fun fact: I'm self-taught person 
-- 
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mehdi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-mehdi-nasiri/) [![Mail Badge](https://img.shields.io/badge/-MehdiNasiri-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:m.mehdi.nasiri@gmail.com)
@@ -44,17 +44,3 @@
 </p>
 
   
-<!--
-**mmehdinasiri/mmehdinasiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
