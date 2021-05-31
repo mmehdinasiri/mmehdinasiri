@@ -4,9 +4,9 @@
 - 🔭 I’m currently working on my first npm package [react-calendar-datetime-picker](https://github.com/mmehdinasiri/react-calendar-datetime-picker)
 - 🌱 I’m currently learning nest.js
 - 👯 I'm looking to collaborate on International Companies.
-- 😄 Pronouns: He/ Him
 - 💬 Ask me about anything related to Javascript/React.
-- ⚡ Fun fact: I'm self-taught person 
+- 😄 Pronouns: He/ Him
+- ⚡ Fun fact: I'm self-taught person.
 
 ### 🤝🏻 &nbsp;Connect with Me
 
